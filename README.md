@@ -9,8 +9,10 @@
 
 
 ## 💻 Projeto
+- React.js @vite
 
-ignite-reactjs-03-dt-money
+![image](https://github.com/CarlosSousa2001/dtmoney/assets/97534614/b3f41717-b3d6-46df-bfc4-b360025078de)
+
 
 ## 📝 Licença
 
